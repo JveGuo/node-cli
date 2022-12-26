@@ -7,4 +7,10 @@
 
 module.exports = {
   framework: ["koa", "express", "egg"],
+  // 模板地址
+  frameworkUrl: {
+    koa: "git@gitee.com:jveguo/koa-template.git",
+    express: "git@gitee.com:jveguo/express-template.git",
+    egg: "git@gitee.com:jveguo/egg-template.git",
+  },
 };
