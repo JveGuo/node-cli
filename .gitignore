@@ -1,0 +1,22 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+### JetBrains IDEs ###
+.idea/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/node_modules/

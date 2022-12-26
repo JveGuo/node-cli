@@ -1,0 +1,29 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "create node framework",
+  "main": "index.js",
+  "bin": {
+    "node-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JveGuo/node-cli.git"
+  },
+  "keywords": [
+    "node-cli"
+  ],
+  "author": "JveGuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JveGuo/node-cli/issues"
+  },
+  "homepage": "https://github.com/JveGuo/node-cli#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "inquirer": "^8.2.5"
+  }
+}
