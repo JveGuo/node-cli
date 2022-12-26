@@ -6,7 +6,9 @@
 "use strict";
 
 module.exports = {
+  // 框架选项
   framework: ["koa", "express", "egg"],
+
   // 模板地址
   frameworkUrl: {
     koa: "git@gitee.com:jveguo/koa-template.git",
