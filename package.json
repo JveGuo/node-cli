@@ -1,5 +1,5 @@
 {
-  "name": "node-cli",
+  "name": "@jveguo16/node-cli",
   "version": "1.0.0",
   "description": "create node framework",
   "main": "index.js",
